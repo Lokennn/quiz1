@@ -1,0 +1,132 @@
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, img, ins, kbd, q, s, samp, small, strike, strong, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+#darkred {
+	background-color: #592323;
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+#black {
+	background-color: #2C2C2C;
+	border: solid;
+	border-bottom-color: black;
+	height: 50px;
+	border-width: 4px;
+
+}
+
+#top {
+	font-size: 40px;
+	color: white;
+	margin-left: 2%;
+	margin-top: 2px;
+	font-family: sans-serif;
+	text-decoration: none;
+
+}
+
+#white {
+	background-color: white;
+	border: solid;
+	border-color: black;
+	border-width: 2px;
+	height: 100%;
+
+}
+
+h1 {
+	font-size: 67px;
+	line-height: 125%;
+	font-family: sans-serif;
+}
+
+#marginthis {
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 4%;
+	margin-bottom: 1%;
+}
+
+#opacity {
+	opacity: .6;
+	
+}
+
+#boldunderline {
+	text-decoration: underline;
+}
+
+#deadlands {
+	position: relative;
+	margin-left: 8%;
+	margin-right: auto;
+	width: 80%;
+}
+
+.paragraphs {
+	font-size: 29.7px;
+	font-family: sans-serif;
+	line-height: 130%;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.itallics {
+	font-style: italic !important;
+}
+
+#itallics {
+	font-style: italic !important;
+}
+
+h4 {
+	font-size: 30px;
+}
+
+h5 {
+	font-size: 30px;
+	text-decoration: underline;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.under {
+	text-decoration: underline;
+}
